@@ -1,0 +1,269 @@
+{
+        "users": [
+            {
+                "name": "Biswanath",
+                "email": "roshanbiswanathpatra@gmail.com",
+                "pwd": "xyz",
+                "tracks": [
+                    "12345678",
+                    "12345686",
+                    "52666495",
+                    "57543118",
+                    "92724132"
+                ]
+            },
+            {
+                "name": "Omm Prasad",
+                "email": "pbiswanathpatra2003@gmail.com",
+                "pwd": "password",
+                "tracks": [
+                    "12346679"
+                ]
+            },
+            {
+                "name": "Roshan",
+                "email": "roshanbiswanathdrive@gmail.com",
+                "pwd": "password",
+                "tracks": [
+                    "12098376"
+                ]
+            },
+            {
+                "name": "biswa",
+                "email": "hello@world.com",
+                "pwd": "password",
+                "tracks": []
+            },
+            {
+                "name": "dad",
+                "email": "world@hello.com",
+                "pwd": "pwd"
+            }
+        ],
+        "tracks": {
+            "12345678": {
+                "issuetime": "2020-04-12.12:24",
+                "pkgwt": "1.2",
+                "startlocation": "1",
+                "endlocation": "5",
+                "location": "4",
+                "Courier Used": "3",
+                "price": "211"
+            },
+            "12345679": {
+                "issuetime": "2020-04-12.12:24",
+                "pkgwt": "1.6",
+                "startlocation": "1",
+                "endlocation": "3",
+                "location": "3",
+                "Courier Used": "2",
+                "price": "231"
+            },
+            "12345686": {
+                "issuetime": "2020-04-12.12:24",
+                "pkgwt": "1.2",
+                "startlocation": "2",
+                "endlocation": "3",
+                "location": "4",
+                "Courier Used": "4",
+                "price": "211"
+            },
+            "12346679": {
+                "issuetime": "2020-04-12.12:24",
+                "pkgwt": "1.6",
+                "startlocation": "2",
+                "endlocation": "4",
+                "location": "6",
+                "Courier Used": "1",
+                "price": "231"
+            },
+            "22345678": {
+                "issuetime": "2020-04-12.12:24",
+                "pkgwt": "1.2",
+                "startlocation": "1",
+                "endlocation": "6",
+                "location": "4",
+                "Courier Used": "3",
+                "price": "211"
+            },
+            "12356679": {
+                "issuetime": "2020-04-12.12:24",
+                "pkgwt": "1.6",
+                "startlocation": "1",
+                "endlocation": "5",
+                "location": "4",
+                "Courier Used": "2",
+                "price": "231"
+            },
+            "12098376": {
+                "issuetime": "2020-11-03 12:54:56.657362",
+                "pkgwt": "1.0",
+                "startlocation": "1",
+                "endlocation": "3",
+                "location": "1",
+                "Courier Used": "1",
+                "price": "286.4963141040101"
+            },
+            "52666495": {
+                "issuetime": "2020-11-05 17:00:12.276155",
+                "pkgwt": "4.0",
+                "startlocation": "3",
+                "endlocation": "2",
+                "location": "3",
+                "Courier Used": "2",
+                "price": "614.2902816001847"
+            },
+            "57543118": {
+                "issuetime": "2020-11-05 17:11:33.992151",
+                "pkgwt": "2.0",
+                "startlocation": "2",
+                "endlocation": "3",
+                "location": "2",
+                "Courier Used": "1",
+                "price": "1016.792945866959"
+            },
+            "92724132": {
+                "issuetime": "2020-11-09 17:07:18.623794",
+                "pkgwt": "3.0",
+                "startlocation": "1",
+                "endlocation": "2",
+                "location": "1",
+                "Courier Used": "4",
+                "price": "681.5413365038553"
+            }
+        },
+        "Locations": {
+            "Name": {
+                "1": "Berhampur",
+                "2": "Kolkata",
+                "3": "Vishakhapatnam",
+                "4": "BBSR",
+                "5": "Rourkela",
+                "6": "Cuttack"
+            },
+            "locdata": {
+                "1": [
+                    19.296756,
+                    84.797389
+                ],
+                "2": [
+                    22.567942,
+                    88.371111
+                ],
+                "3": [
+                    17.7213,
+                    83.290583
+                ],
+                "4": [
+                    20.266771,
+                    85.843631
+                ],
+                "5": [
+                    22.227598,
+                    84.86323
+                ],
+                "6": [
+                    20.464005,
+                    85.900207
+                ]
+            }
+        },
+        "couriers": {
+            "1": "BlueDart",
+            "2": "India Post",
+            "3": "Ekart Logistics",
+            "4": "DTDC"
+        },
+        "courierurl": {
+            "1": "https://www.bluedart.com",
+            "2": "https://www.indiapost.gov.in/vas/Pages/IndiaPostHome.aspx",
+            "3": "https:///ekartlogistics.com",
+            "4": "https://dtdc.in"
+        },
+        "courier_prices": {
+            "normal": {
+                "01": {
+                    "startpricea": 150,
+                    "startpriceb": 100,
+                    "startpricec": 80,
+                    "startpriced": 95,
+                    "pricekma": 5.5,
+                    "pricekmb": 3.6,
+                    "pricekmc": 4.8,
+                    "pricekmd": 6.7
+                },
+                "15": {
+                    "startpricea": 155,
+                    "startpriceb": 107,
+                    "startpricec": 83,
+                    "startpriced": 95,
+                    "pricekma": 5.7,
+                    "pricekmb": 3.9,
+                    "pricekmc": 5.2,
+                    "pricekmd": 6.8
+                },
+                "510": {
+                    "startpricea": 159,
+                    "startpriceb": 112,
+                    "startpricec": 87,
+                    "startpriced": 100,
+                    "pricekma": 5.9,
+                    "pricekmb": 4.3,
+                    "pricekmc": 5.4,
+                    "pricekmd": 6.9
+                },
+                "100": {
+                    "startpricea": 165,
+                    "startpriceb": 116,
+                    "startpricec": 90,
+                    "startpriced": 112,
+                    "pricekma": 6.2,
+                    "pricekmb": 4.6,
+                    "pricekmc": 5,
+                    "pricekmd": 6.2
+                }
+            },
+            "fast": {
+                "01": {
+                    "startpricea": 50,
+                    "startpriceb": 70,
+                    "startpricec": 60,
+                    "startpriced": 55,
+                    "pricekma": 5,
+                    "pricekmb": 3,
+                    "pricekmc": 4,
+                    "pricekmd": 6
+                },
+                "15": {
+                    "startpricea": 55,
+                    "startpriceb": 70,
+                    "startpricec": 60,
+                    "startpriced": 58,
+                    "pricekma": 5.2,
+                    "pricekmb": 3.6,
+                    "pricekmc": 4.8,
+                    "pricekmd": 6
+                },
+                "510": {
+                    "startpricea": 55,
+                    "startpriceb": 70,
+                    "startpricec": 60,
+                    "startpriced": 55,
+                    "pricekma": 5.2,
+                    "pricekmb": 3.6,
+                    "pricekmc": 4.8,
+                    "pricekmd": 6
+                },
+                "100": {
+                    "startpricea": 55,
+                    "startpriceb": 72,
+                    "startpricec": 60,
+                    "startpriced": 60,
+                    "pricekma": 6.2,
+                    "pricekmb": 4.6,
+                    "pricekmc": 5,
+                    "pricekmd": 6.2
+                }
+            }
+        }
+    }

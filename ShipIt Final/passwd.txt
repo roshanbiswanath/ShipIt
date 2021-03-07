@@ -1,0 +1,75 @@
+{
+    "paswd": {
+        "admins": [
+            {
+                "email": "adminmail1@gmail.com",
+                "name": "Biswanath Patra",
+                "pwd": "shipitbest","courier": "c1"
+            },
+	    {
+                "email": "adminmail2@gmail.com",
+                "name": "Sumanpreet Kaur",
+                "pwd": "password","courier": "c2"
+            },{
+                "email": "adminmail3@gmail.com",
+                "name": "Ekart Admin",
+                "pwd": "password","courier": "c3"
+            },{
+                "email": "adminmail4@gmail.com",
+                "name": "DTDC Admin",
+                "pwd": "password","courier": "c4"
+            },
+        ],
+        "users": [
+            {
+                "email": "usermail1@gmail.com",
+                "name": "Biswanath Patra",
+                "pwd": "xyz",
+                "tracks": [
+                    "00000000",
+                    "12345678",
+                    "12345686"
+                ],
+                "uid": "12321"
+            },
+            {
+                "email": "hellosir@gmail.com",
+                "name": "Omm Prasad",
+                "pwd": "password",
+                "tracks": [
+                    "00000000",
+                    "12346679"
+                ],
+                "uid": "12322"
+            },
+            {
+                "email": "mailguy@gmail.com",
+                "name": "Roshan",
+                "pwd": "password",
+                "tracks": [
+                    "00000000",
+                    "12098376"
+                ],
+                "uid": "12323"
+            },
+            {
+                "email": "hello@world.com",
+                "name": "biswa",
+                "pwd": "password",
+                "tracks": [
+                    "00000000"
+                ],
+                "uid": "12324"
+            },
+            {
+                "email": "world@hello.com",
+                "name": "dad",
+                "pwd": "pwd",
+                "tracks": [
+                    "00000000"
+                ],
+                "uid": "12325"
+            }
+        ]
+    }
+}
